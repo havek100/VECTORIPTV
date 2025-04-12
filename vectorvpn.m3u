@@ -1,38 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="Canais Abertos",Globo SP FHD
-http://bkgpt.xyz/live/173193235/719199862/38839.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Notícias",CNN Brasil FHD
+http://bkgpt.xyz/live/173193235/719199862/17538.ts
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://guugli.org:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="Canais Abertos",SBT SP FHD
 http://bkgpt.xyz/live/173193235/719199862/320925.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SP FHD" tvg-logo="http://guugli.org:80/images/6a0d9eaee314c567fd72fb97ee707a36.png" group-title="Canais Abertos",RECORD TV SP FHD
-http://bkgpt.xyz/live/173193235/719199862/46135.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD" tvg-logo="http://guugli.org:80/images/244b84c9d42434675ebb318564140730.png" group-title="Canais Abertos",BAND SP FHD
-http://bkgpt.xyz/live/173193235/719199862/193919.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV!  FHD" tvg-logo="http://guugli.org:80/images/7fc47469b37a14269eeafddd13aebccb.png" group-title="Canais Abertos",REDE TV!  FHD
-http://bkgpt.xyz/live/173193235/719199862/46004.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="http://guugli.org:80/images/a7e8cdae91be9ccada69ea0c0da5c26d.png" group-title="Canais Abertos",TV CULTURA FHD
-http://bkgpt.xyz/live/173193235/719199862/45719.ts
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="GAZETA SP FHD" tvg-logo="http://guugli.org:80/images/5524a6ca9b9ccea558e70de44428da38.png" group-title="Canais Abertos",GAZETA SP FHD
 http://bkgpt.xyz/live/173193235/719199862/197590.ts
 #EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="http://guugli.org:80/images/1e472e349f2b5df5ebdccb5f91c0d2d9.jpg" group-title="Canais Abertos",TV BRASIL HD
 http://bkgpt.xyz/live/173193235/719199862/194380.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Notícias",Globo News FHD
-http://bkgpt.xyz/live/173193235/719199862/17782.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Notícias",CNN Brasil FHD
-http://bkgpt.xyz/live/173193235/719199862/17538.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD" tvg-logo="http://guugli.org:80/images/244b84c9d42434675ebb318564140730.png" group-title="Canais Abertos",BAND SP FHD
+http://bkgpt.xyz/live/173193235/719199862/193919.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="http://guugli.org:80/images/a7e8cdae91be9ccada69ea0c0da5c26d.png" group-title="Canais Abertos",TV CULTURA FHD
+http://bkgpt.xyz/live/173193235/719199862/45719.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV!  FHD" tvg-logo="http://guugli.org:80/images/7fc47469b37a14269eeafddd13aebccb.png" group-title="Canais Abertos",REDE TV!  FHD
+http://bkgpt.xyz/live/173193235/719199862/46004.ts
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="Canais Abertos",Globo SP FHD
+http://bkgpt.xyz/live/173193235/719199862/38839.ts
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Notícias",Band News FHD
 http://bkgpt.xyz/live/173193235/719199862/17598.ts
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="http://guugli.org:80/images/e14aee90809d15536623b9e8577fe7d6.png" group-title="Notícias",JOVEM PAN NEWS FHD
-http://bkgpt.xyz/live/173193235/719199862/159042.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News FHD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Notícias",Record News FHD
-http://bkgpt.xyz/live/173193235/719199862/17532.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD H265" tvg-logo="http://guugli.org:80/images/bea99f2c35beab30bdbc493660e3fe11.jpg" group-title="Esportes",SporTV FHD H265
-http://bkgpt.xyz/live/173193235/719199862/368224.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="Esportes",SporTV 2 FHD
-http://bkgpt.xyz/live/173193235/719199862/18237.ts
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="Esportes",SporTV 3 FHD
 http://bkgpt.xyz/live/173193235/719199862/18240.ts
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="Esportes",ESPN FHD
-http://bkgpt.xyz/live/173193235/719199862/2302897.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="Esportes",BandSports FHD
+http://bkgpt.xyz/live/173193235/719199862/17604.ts
 #EXTINF:-1 tvg-id="None" tvg-name="ESPN 2 FHD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="Esportes",ESPN 2 FHD
 http://bkgpt.xyz/live/173193235/719199862/2302914.ts
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 FHD" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="Esportes",ESPN 3 FHD
@@ -45,8 +33,6 @@ http://bkgpt.xyz/live/173193235/719199862/2302903.ts
 http://bkgpt.xyz/live/173193235/719199862/2302899.ts
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="Esportes",Combate FHD
 http://bkgpt.xyz/live/173193235/719199862/38277.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="Esportes",BandSports FHD
-http://bkgpt.xyz/live/173193235/719199862/17604.ts
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgA6LSXXzyvcfS3qj04QNt6dBMlJWKNsHRvK0-V0-wIFY93yByC7yd5_3qF3BZ85RYz1HUaJQHBmY5s9QFSvzOG4Eua_W4WVyLgLniml9Ug1IDPYRXYK1svuk_EyZMserEh-97OidJTF8Vg5AsidRigqhHXeja35o2rcSyQV6pMsG0_7fT3T9FwYWZ9" group-title="Esportes",Premiere Clubes FHD
 http://bkgpt.xyz/live/173193235/719199862/37550.ts
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgA6LSXXzyvcfS3qj04QNt6dBMlJWKNsHRvK0-V0-wIFY93yByC7yd5_3qF3BZ85RYz1HUaJQHBmY5s9QFSvzOG4Eua_W4WVyLgLniml9Ug1IDPYRXYK1svuk_EyZMserEh-97OidJTF8Vg5AsidRigqhHXeja35o2rcSyQV6pMsG0_7fT3T9FwYWZ9" group-title="Esportes",Premiere 2 FHD
@@ -59,6 +45,8 @@ http://bkgpt.xyz/live/173193235/719199862/37553.ts
 http://bkgpt.xyz/live/173193235/719199862/37554.ts
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgA6LSXXzyvcfS3qj04QNt6dBMlJWKNsHRvK0-V0-wIFY93yByC7yd5_3qF3BZ85RYz1HUaJQHBmY5s9QFSvzOG4Eua_W4WVyLgLniml9Ug1IDPYRXYK1svuk_EyZMserEh-97OidJTF8Vg5AsidRigqhHXeja35o2rcSyQV6pMsG0_7fT3T9FwYWZ9" group-title="Esportes",Premiere 6 FHD
 http://bkgpt.xyz/live/173193235/719199862/37555.ts
+#EXTINF:-1 tvg-id="lch211" tvg-name="ESPN 1 FHD" tvg-logo="https://imgmxa.net/espn1.png" group-title="Esportes",ESPN 1 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/104.ts
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgA6LSXXzyvcfS3qj04QNt6dBMlJWKNsHRvK0-V0-wIFY93yByC7yd5_3qF3BZ85RYz1HUaJQHBmY5s9QFSvzOG4Eua_W4WVyLgLniml9Ug1IDPYRXYK1svuk_EyZMserEh-97OidJTF8Vg5AsidRigqhHXeja35o2rcSyQV6pMsG0_7fT3T9FwYWZ9" group-title="Esportes",Premiere 7 FHD
 http://bkgpt.xyz/live/173193235/719199862/37556.ts
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://guugli.org:80/images/88754784552a7db47916b1089113af68.png" group-title="Filmes e Séries",TELECINE PREMIUM FHD
@@ -67,18 +55,18 @@ http://bkgpt.xyz/live/173193235/719199862/45714
 http://bkgpt.xyz/live/173193235/719199862/18070.ts
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.ibb.co/d5TGjz6/tcpipoca.png" group-title="Filmes e Séries",Telecine Pipoca FHD
 http://bkgpt.xyz/live/173193235/719199862/18079.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://i.ibb.co/gwF0LNy/cult.png" group-title="Filmes e Séries",Telecine Cult FHD
+http://bkgpt.xyz/live/173193235/719199862/18073.ts
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://i.ibb.co/cb0h61D/tctouch.png" group-title="Filmes e Séries",Telecine Touch FHD
 http://bkgpt.xyz/live/173193235/719199862/18085.ts
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://i.ibb.co/RHFRwzQ/tcfun.png" group-title="Filmes e Séries",Telecine Fun FHD
 http://bkgpt.xyz/live/173193235/719199862/18076.ts
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://i.ibb.co/gwF0LNy/cult.png" group-title="Filmes e Séries",Telecine Cult FHD
-http://bkgpt.xyz/live/173193235/719199862/18073.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://imgur.com/B31UzcE.jpeg" group-title="Filmes e Séries",HBO Family FHD
+http://bkgpt.xyz/live/173193235/719199862/18049.ts
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://imgur.com/9pT0dM8.jpeg" group-title="Filmes e Séries",HBO FHD
 http://bkgpt.xyz/live/173193235/719199862/18052.ts
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://imgur.com/LjUUb9o.jpeg" group-title="Filmes e Séries",HBO 2 FHD
 http://bkgpt.xyz/live/173193235/719199862/18046.ts
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://imgur.com/B31UzcE.jpeg" group-title="Filmes e Séries",HBO Family FHD
-http://bkgpt.xyz/live/173193235/719199862/18049.ts
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://imgur.com/IlDpt1o.jpeg" group-title="Filmes e Séries",HBO Signature FHD
 http://bkgpt.xyz/live/173193235/719199862/18064.ts
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://i.ibb.co/pynX5LS/hboextreme.png" group-title="Filmes e Séries",HBO Xtreme FHD
@@ -111,8 +99,6 @@ http://bkgpt.xyz/live/173193235/719199862/18040.ts
 http://bkgpt.xyz/live/173193235/719199862/17848.ts
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="Filmes e Séries",TNT FHD
 http://bkgpt.xyz/live/173193235/719199862/38454.ts
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries HD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="Filmes e Séries",TNT Séries HD
-http://bkgpt.xyz/live/173193235/719199862/17868.ts
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="https://i.ibb.co/hFJBRQv/paramount.png" group-title="Filmes e Séries",Paramount Channel FHD
 http://bkgpt.xyz/live/173193235/719199862/38281.ts
 #EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="Filmes e Séries",SYFY FHD
@@ -179,12 +165,10 @@ http://bkgpt.xyz/live/173193235/719199862/17550.ts
 http://bkgpt.xyz/live/173193235/719199862/47166.ts
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.ibb.co/sPKYgMR/cartoonito.png" group-title="Infantil",CARTOONITO HD
 http://bkgpt.xyz/live/173193235/719199862/17612.ts
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://i.ibb.co/jvwwcjq/tooncast.png" group-title="Infantil",Tooncast HD
-http://bkgpt.xyz/live/173193235/719199862/113225.ts
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo FHD" tvg-logo="https://i.ibb.co/f4r9F2g/zoomoo.png" group-title="Infantil",ZooMoo FHD
-http://bkgpt.xyz/live/173193235/719199862/433938.ts
 #EXTINF:-1 tvg-id="None" tvg-name="Multishow FHD" tvg-logo="https://imgur.com/flSKGuB.jpeg" group-title="Variedades",Multishow FHD
 http://bkgpt.xyz/live/173193235/719199862/18016.ts
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo FHD" tvg-logo="https://i.ibb.co/f4r9F2g/zoomoo.png" group-title="Infantil",ZooMoo FHD
+http://bkgpt.xyz/live/173193235/719199862/433938.ts
 #EXTINF:-1 tvg-id="None" tvg-name="GNT FHD" tvg-logo="https://imgur.com/uK8YybP.jpeg" group-title="Variedades",GNT FHD
 http://bkgpt.xyz/live/173193235/719199862/18007.ts
 #EXTINF:-1 tvg-id="None" tvg-name="Viva FHD" tvg-logo="https://imgur.com/1h7qB78.jpeg" group-title="Variedades",Viva FHD
@@ -197,12 +181,10 @@ http://bkgpt.xyz/live/173193235/719199862/17627.ts
 http://bkgpt.xyz/live/173193235/719199862/442381.ts
 #EXTINF:-1 tvg-id="None" tvg-name="BIS FHD" tvg-logo="https://imgur.com/GweLVOA.jpeg" group-title="Música",BIS FHD
 http://bkgpt.xyz/live/173193235/719199862/18004.ts
-#EXTINF:-1 tvg-id="None" tvg-name="MTV FHD" tvg-logo="https://imgur.com/b7Yi4Fa.jpeg" group-title="Música",MTV FHD
-http://bkgpt.xyz/live/173193235/719199862/17800.ts
-#EXTINF:-1 tvg-id="None" tvg-name="MTV Live FHD" tvg-logo="https://i.ibb.co/fxn58BS/mtv.png" group-title="Música",MTV Live FHD
-http://bkgpt.xyz/live/173193235/719199862/18013.ts
 #EXTINF:-1 tvg-id="None" tvg-name="Music Box Brazil HD" tvg-logo="https://imgur.com/CMni2EM.jpeg" group-title="Música",Music Box Brazil HD
 http://bkgpt.xyz/live/173193235/719199862/17564.ts
+#EXTINF:-1 tvg-id="None" tvg-name="MTV Live FHD" tvg-logo="https://i.ibb.co/fxn58BS/mtv.png" group-title="Música",MTV Live FHD
+http://bkgpt.xyz/live/173193235/719199862/18013.ts
 #EXTINF:-1 tvg-id="None" tvg-name="VH1 HD" tvg-logo="https://imgur.com/Vq5qR3o.jpeg" group-title="Música",VH1 HD
 http://bkgpt.xyz/live/173193235/719199862/18022.ts
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://imgur.com/1RiJyQ4.jpeg" group-title="Religiosos",TV APARECIDA HD
@@ -213,16 +195,14 @@ http://bkgpt.xyz/live/173193235/719199862/36364.ts
 http://bkgpt.xyz/live/173193235/719199862/319320.ts
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://imgur.com/OpThoHW.jpeg" group-title="Religiosos",REDE VIDA HD
 http://bkgpt.xyz/live/173193235/719199862/18001.ts
-#EXTINF:-1 tvg-id="None" tvg-name="Pai Eterno HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/6ea19e674e731e9eef76b96ab954e4b1.png" group-title="Religiosos",Pai Eterno HD
-http://bkgpt.xyz/live/173193235/719199862/113336.ts
 #EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s300/sbt.png" group-title="Rural/Agro",Canal Rural FHD
 http://bkgpt.xyz/live/173193235/719199862/17615.ts
+#EXTINF:-1 tvg-id="None" tvg-name="Pai Eterno HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/6ea19e674e731e9eef76b96ab954e4b1.png" group-title="Religiosos",Pai Eterno HD
+http://bkgpt.xyz/live/173193235/719199862/113336.ts
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AGROMAIS FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="Rural/Agro",AGROMAIS FHD
 http://bkgpt.xyz/live/173193235/719199862/1783953.ts
 #EXTINF:-1 tvg-id="None" tvg-name="TERRA VIVA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="Rural/Agro",TERRA VIVA HD
 http://bkgpt.xyz/live/173193235/719199862/1108575.ts
-
-# --- Canais 4K ---
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo 4K" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="4K Canais",Globo 4K
 http://bkgpt.xyz/live/173193235/719199862/1107712.ts
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band 4K" tvg-logo="https://lh3.googleusercontent.com/-Qk6TaQeYOto/YG2ok13zN0I/AAAAAAAAKME/H4vgg5e97wk5lEOOic2u3lG8nDWTUKFpACLcBGAsYHQ/BAND%2B4K.png" group-title="4K Canais",Band 4K
@@ -231,8 +211,6 @@ http://bkgpt.xyz/live/173193235/719199862/1107713.ts
 http://bkgpt.xyz/live/173193235/719199862/1107714.ts
 #EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record 4K" tvg-logo="https://i.ibb.co/DDn35v7/Novo-rederecord.png" group-title="4K Canais",Record 4K
 http://bkgpt.xyz/live/173193235/719199862/1107715.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="https://lh3.googleusercontent.com/-cVXLh36htco/YG2ofCQfsOI/AAAAAAAAKLY/yey6pMgPgh8427E3wIthZvgAi90R0l6-wCLcBGAsYHQ/REDETV%2B4K.png" group-title="4K Canais",REDETV 4K
-http://bkgpt.xyz/live/173193235/719199862/1107716.ts
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K" tvg-logo="https://lh3.googleusercontent.com/-pE1W22zfcPA/YG2oboTpHiI/AAAAAAAAKK4/TbloTY4Zr_E61qVaPVYPLCcD7KQStWyBQCLcBGAsYHQ/MULTISHOW%2B4K.png" group-title="4K Canais",Multishow 4K
 http://bkgpt.xyz/live/173193235/719199862/1107717.ts
 #EXTINF:-1 tvg-id="space.br" tvg-name="Space 4K" tvg-logo="https://lh3.googleusercontent.com/-XgsZWFjysXk/YG2oioF-ohI/AAAAAAAAKL0/nhzSUpjnJn4ztx1Eh38Eac664kOF6rU_gCLcBGAsYHQ/SPACE%2B4K.png" group-title="4K Canais",Space 4K
@@ -269,16 +247,16 @@ http://bkgpt.xyz/live/173193235/719199862/1107733.ts
 http://bkgpt.xyz/live/173193235/719199862/1107736.ts
 #EXTINF:-1 tvg-id="None" tvg-name="TV GAZETA 4K" tvg-logo="https://i.imgur.com/akSLwHs.png" group-title="4K Canais",TV GAZETA 4K
 http://bkgpt.xyz/live/173193235/719199862/85339.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV2 4K*" tvg-logo="http://guugli.org:80/images/bea99f2c35beab30bdbc493660e3fe11.jpg" group-title="4K Canais",SPORTV2 4K*
-http://bkgpt.xyz/live/173193235/719199862/370372.ts
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV3 4K*" tvg-logo="http://guugli.org:80/images/bea99f2c35beab30bdbc493660e3fe11.jpg" group-title="4K Canais",SPORTV3 4K*
 http://bkgpt.xyz/live/173193235/719199862/370373.ts
-#EXTINF:-1 tvg-id="premiere.fc.br" tvg-name="PREMIERE 4K*" tvg-logo="http://guugli.org:80/images/0374b45a80e397cf2d818026d35c9aab.png" group-title="4K Canais",PREMIERE 4K*
-http://bkgpt.xyz/live/173193235/719199862/370377.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 4K*" tvg-logo="http://guugli.org:80/images/85e929412139f722f8e955739fc5b253.png" group-title="4K Canais",PREMIERE 2 4K*
-http://bkgpt.xyz/live/173193235/719199862/370378.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="https://lh3.googleusercontent.com/-cVXLh36htco/YG2ofCQfsOI/AAAAAAAAKLY/yey6pMgPgh8427E3wIthZvgAi90R0l6-wCLcBGAsYHQ/REDETV%2B4K.png" group-title="4K Canais",REDETV 4K
+http://bkgpt.xyz/live/173193235/719199862/1107716.ts
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 4K" tvg-logo="https://lh3.googleusercontent.com/-4h5wLi-DGbM/YG2obFahJ5I/AAAAAAAAKKk/c05Ik85-8tknXkYRp93ZztZPBbAYlRI4gCLcBGAsYHQ/FOX%2BSPORTS%2B4K.png" group-title="4K Canais",ESPN 4 4K
 http://bkgpt.xyz/live/173193235/719199862/2302885.ts
+#EXTINF:-1 tvg-id="premiere.fc.br" tvg-name="PREMIERE 4K*" tvg-logo="http://guugli.org:80/images/0374b45a80e397cf2d818026d35c9aab.png" group-title="4K Canais",PREMIERE 4K*
+http://bkgpt.xyz/live/173193235/719199862/370377.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV2 4K*" tvg-logo="http://guugli.org:80/images/bea99f2c35beab30bdbc493660e3fe11.jpg" group-title="4K Canais",SPORTV2 4K*
+http://bkgpt.xyz/live/173193235/719199862/370372.ts
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="JOVEM PAN NEWS 4K*" tvg-logo="http://guugli.org:80/images/f509cacc42a95cb065f17ee4c469dbc7.png" group-title="4K Canais",JOVEM PAN NEWS 4K*
 http://bkgpt.xyz/live/173193235/719199862/159045.ts
 #EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL 4K*" tvg-logo="http://guugli.org:80/images/c77569b579b8cb62b57eee357a4ebb06.jpg" group-title="4K Canais",CNN BRASIL 4K*
@@ -287,19 +265,19 @@ http://bkgpt.xyz/live/173193235/719199862/46247.ts
 http://bkgpt.xyz/live/173193235/719199862/46246.ts
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM 4K*" tvg-logo="http://guugli.org:80/images/88754784552a7db47916b1089113af68.png" group-title="4K Canais",TELECINE PREMIUM 4K*
 http://bkgpt.xyz/live/173193235/719199862/46173.ts
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL 4K*" tvg-logo="http://guugli.org:80/images/354288016f2a5605596f0f152809163f.png" group-title="4K Canais",DISNEY CHANNEL 4K*
+http://bkgpt.xyz/live/173193235/719199862/47145.ts
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA 4K*" tvg-logo="http://guugli.org:80/images/0b8dafb71ec6de849e6a4a511ce1949b.png" group-title="4K Canais",TELECINE PIPOCA 4K*
 http://bkgpt.xyz/live/173193235/719199862/46172.ts
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION 4K*" tvg-logo="http://guugli.org:80/images/b1546d96d57afc610c6a064ba942f40a.png" group-title="4K Canais",TELECINE ACTION 4K*
 http://bkgpt.xyz/live/173193235/719199862/46261.ts
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK 4K*" tvg-logo="http://guugli.org:80/images/3e22759e13733db0f2942b7c00e2e208.png" group-title="4K Canais",CARTOON NETWORK 4K*
 http://bkgpt.xyz/live/173193235/719199862/46258.ts
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL 4K*" tvg-logo="http://guugli.org:80/images/354288016f2a5605596f0f152809163f.png" group-title="4K Canais",DISNEY CHANNEL 4K*
-http://bkgpt.xyz/live/173193235/719199862/47145.ts
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET 4K*" tvg-logo="http://guugli.org:80/images/6f6ff7ff9ea81011578106478e3c175a.png" group-title="4K Canais",ANIMAL PLANET 4K*
 http://bkgpt.xyz/live/173193235/719199862/46255.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="DISCOVERY CHANNEL 4K*" tvg-logo="http://guugli.org:80/images/e1dffa9e96103f8bfbaee94365d88cf9.jpg" group-title="4K Canais",DISCOVERY CHANNEL 4K*
 http://bkgpt.xyz/live/173193235/719199862/46253.ts
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH  4K*" tvg-logo="http://guugli.org:80/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="4K Canais",DISCOVERY HOME & HEALTH  4K*
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH  4K*" tvg-logo="http://guugli.org:80/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="4K Canais",DISCOVERY HOME & HEALTH  4K*
 http://bkgpt.xyz/live/173193235/719199862/320227.ts
 #EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO 4K*" tvg-logo="https://i.imgur.com/lPyBUNg.png" group-title="4K Canais",DISCOVERY TURBO 4K*
 http://bkgpt.xyz/live/173193235/719199862/46257.ts
@@ -319,36 +297,10 @@ http://bkgpt.xyz/live/173193235/719199862/46259.ts
 http://bkgpt.xyz/live/173193235/719199862/46174.ts
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV 4K*" tvg-logo="http://guugli.org:80/images/8b531f54b17f6f21d802ef2126d60ade.jpg" group-title="4K Canais",FISH TV 4K*
 http://bkgpt.xyz/live/173193235/719199862/47148.ts
-
-# --- Canais Disney+ ---
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISNEY+ 1" tvg-logo="http://vapnhaja.online:8080/images/08df68f90a984dca83ff2d1c41e37427.jpg" group-title="Streaming Apps",DISNEY+ 1
-http://bkgpt.xyz/live/173193235/719199862/167780.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISNEY+ 2" tvg-logo="http://vapnhaja.online:8080/images/08df68f90a984dca83ff2d1c41e37427.jpg" group-title="Streaming Apps",DISNEY+ 2
-http://bkgpt.xyz/live/173193235/719199862/167781.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISNEY+ 3" tvg-logo="http://dns.1888gyn.click:80/images/08df68f90a984dca83ff2d1c41e37427.jpg" group-title="Streaming Apps",DISNEY+ 3
-http://bkgpt.xyz/live/173193235/719199862/167782.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISNEY+ 4" tvg-logo="http://guugli.org:80/images/08df68f90a984dca83ff2d1c41e37427.jpg" group-title="Streaming Apps",DISNEY+ 4
-http://bkgpt.xyz/live/173193235/719199862/167783.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISNEY+ 5" tvg-logo="http://guugli.org:80/images/08df68f90a984dca83ff2d1c41e37427.jpg" group-title="Streaming Apps",DISNEY+ 5
-http://bkgpt.xyz/live/173193235/719199862/167784.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISNEY+ 6" tvg-logo="http://guugli.org:80/images/08df68f90a984dca83ff2d1c41e37427.jpg" group-title="Streaming Apps",DISNEY+ 6
-http://bkgpt.xyz/live/173193235/719199862/167785.ts
-
-# --- Canais Max ---
-#EXTINF:-1 tvg-id="4" tvg-name="HBO MAX 1 FHD" tvg-logo="http://dns.1888gyn.click:80/images/b689a470838bb4ade43232c61260039e.jpg" group-title="Filmes e Séries",HBO MAX 1 FHD
-http://bkgpt.xyz/live/173193235/719199862/194130.ts
-#EXTINF:-1 tvg-id="4" tvg-name="HBO MAX 2 FHD" tvg-logo="http://dns.1888gyn.click:80/images/b689a470838bb4ade43232c61260039e.jpg" group-title="Filmes e Séries",HBO MAX 2 FHD
-http://bkgpt.xyz/live/173193235/719199862/227386.ts
-#EXTINF:-1 tvg-id="4" tvg-name="HBO MAX 3 FHD" tvg-logo="http://dns.1888gyn.click:80/images/b689a470838bb4ade43232c61260039e.jpg" group-title="Filmes e Séries",HBO MAX 3 FHD
-http://bkgpt.xyz/live/173193235/719199862/227387.ts
-#EXTINF:-1 tvg-id="4" tvg-name="HBO MAX 4 FHD" tvg-logo="http://guugli.org:80/images/b689a470838bb4ade43232c61260039e.jpg" group-title="Filmes e Séries",HBO MAX 4 FHD
-http://bkgpt.xyz/live/173193235/719199862/227388.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5 FHD" tvg-logo="http://guugli.org:80/images/b689a470838bb4ade43232c61260039e.jpg" group-title="Filmes e Séries",HBO MAX 5 FHD
-http://bkgpt.xyz/live/173193235/719199862/135764.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 6 FHD" tvg-logo="http://guugli.org:80/images/b689a470838bb4ade43232c61260039e.jpg" group-title="Filmes e Séries",HBO MAX 6 FHD
-http://bkgpt.xyz/live/173193235/719199862/135763.ts
-
-# --- Canais Champions League ---
+#EXTINF:-1 tvg-id="None" tvg-name="Disney+ 3 HD" tvg-logo="https://imgmxa.net/disneyplus.png" group-title="Infantil",Disney+ 3 HD
+http://k1x9.com/live/uidwfwz/mwygi7t/839.ts
+#EXTINF:-1 tvg-id="None" tvg-name="MAX 2" tvg-logo="https://imgmxa.net/hbomax.png" group-title="Variedades",MAX 2
+http://k1x9.com/live/uidwfwz/mwygi7t/844.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="CHAMPIONS LEAGUE 01" tvg-logo="http://guugli.org:80/images/769edbd92d6f1c1395bab9e681fcdb0d.jpg" group-title="Esportes",CHAMPIONS LEAGUE 01
 http://bkgpt.xyz/live/173193235/719199862/46137.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="CHAMPIONS LEAGUE 02" tvg-logo="http://guugli.org:80/images/769edbd92d6f1c1395bab9e681fcdb0d.jpg" group-title="Esportes",CHAMPIONS LEAGUE 02
@@ -361,15 +313,9 @@ http://bkgpt.xyz/live/173193235/719199862/46140.ts
 http://bkgpt.xyz/live/173193235/719199862/46141.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="CHAMPIONS LEAGUE 06" tvg-logo="http://guugli.org:80/images/769edbd92d6f1c1395bab9e681fcdb0d.jpg" group-title="Esportes",CHAMPIONS LEAGUE 06
 http://bkgpt.xyz/live/173193235/719199862/46142.ts
-
-# --- Canais Paramount ---
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://guugli.org:80/images/aed15c08cb137d2cacc9461e214dbb6c.png" group-title="Filmes e Séries",PARAMOUNT CHANNEL FHD
-http://bkgpt.xyz/live/173193235/719199862/45980.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+" tvg-logo="http://guugli.org:80/images/cc199dd13eacf5fba0de506f69639c34.png" group-title="Streaming Apps",PARAMOUNT+
-http://bkgpt.xyz/live/173193235/719199862/329560.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2" tvg-logo="http://guugli.org:80/images/cc199dd13eacf5fba0de506f69639c34.png" group-title="Streaming Apps",PARAMOUNT+ 2
-http://bkgpt.xyz/live/173193235/719199862/329562.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 3" tvg-logo="http://guugli.org:80/images/cc199dd13eacf5fba0de506f69639c34.png" group-title="Streaming Apps",PARAMOUNT+ 3
-http://bkgpt.xyz/live/173193235/719199862/329564.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4" tvg-logo="http://guugli.org:80/images/cc199dd13eacf5fba0de506f69639c34.png" group-title="Streaming Apps",PARAMOUNT+ 4
-http://bkgpt.xyz/live/173193235/719199862/329566.ts
+#EXTINF:-1 tvg-id="AE" tvg-name="CONMEBOL Paramount+ 1 SD" tvg-logo="https://imgmxa.net/paramountplus.png" group-title="Esportes",CONMEBOL Paramount+ 1 SD
+http://k1x9.com/live/uidwfwz/mwygi7t/1339.ts
+#EXTINF:-1 tvg-id="AE" tvg-name="CONMEBOL Paramount+ 3 FHD" tvg-logo="https://imgmxa.net/paramountplus.png" group-title="Esportes",CONMEBOL Paramount+ 3 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/1470.ts
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL Paramount+ 2 FHD" tvg-logo="https://imgmxa.net/paramountplus.png" group-title="Esportes",CONMEBOL Paramount+ 2 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/1626.ts
