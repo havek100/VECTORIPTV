@@ -1,0 +1,399 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Sul FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Canais Abertos",GB TV Gazeta ES Sul FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/485.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Canais Abertos",GB TV Gazeta ES FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/483.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="Globo SP 4K" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Canais Abertos",Globo SP 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1655.ts
+#EXTINF:-1 tvg-id="br#record-hd" tvg-name="Record TV Cidade CE Fortaleza FHD" tvg-logo="https://imgmxa.net/record.png" group-title="Canais Abertos",Record TV Cidade CE Fortaleza FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/81870.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="Globo RPC Cascavel FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Canais Abertos",Globo RPC Cascavel FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/631.ts
+#EXTINF:-1 tvg-id="br#record-hd" tvg-name="Record Minas FHD" tvg-logo="https://imgmxa.net/record.png" group-title="Canais Abertos",Record Minas FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/81868.ts
+#EXTINF:-1 tvg-id="br#record-hd" tvg-name="Record SP FHD" tvg-logo="https://imgmxa.net/record.png" group-title="Canais Abertos",Record SP FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/595.ts
+#EXTINF:-1 tvg-id="br#record-hd" tvg-name="Record RS FHD" tvg-logo="https://imgmxa.net/record.png" group-title="Canais Abertos",Record RS FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/662.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="Rede TV Pampa RS FHD" tvg-logo="https://imgmxa.net/redetv.png" group-title="Canais Abertos",Rede TV Pampa RS FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/81869.ts
+#EXTINF:-1 tvg-id="br#band-rio-grande-do-sul-hd" tvg-name="Band RS FHD" tvg-logo="https://imgmxa.net/band.png" group-title="Canais Abertos",Band RS FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/663.ts
+#EXTINF:-1 tvg-id="lch143" tvg-name="BAND SP 4K" tvg-logo="https://imgmxa.net/band.png" group-title="Canais Abertos",BAND SP 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1631.ts
+#EXTINF:-1 tvg-id="lch143" tvg-name="BAND ES 4K" tvg-logo="https://imgmxa.net/band.png" group-title="Canais Abertos",BAND ES 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1630.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="https://imgmxa.net/arte1.png" group-title="Documentários",Arte 1 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/450.ts
+#EXTINF:-1 tvg-id="lch98" tvg-name="Rede TV 4K" tvg-logo="https://imgmxa.net/redetv.png" group-title="Canais Abertos",Rede TV 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1648.ts
+#EXTINF:-1 tvg-id="lch2792" tvg-name="Arte 1 FHD [H265]" tvg-logo="https://imgmxa.net/arte1.png" group-title="Documentários",Arte 1 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/696.ts
+#EXTINF:-1 tvg-id="lch81" tvg-name="BIS FHD [H265]" tvg-logo="https://imgmxa.net/bis.png" group-title="Documentários",BIS FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/29.ts
+#EXTINF:-1 tvg-id="lch929" tvg-name="Canal Brasil FHD [H265]" tvg-logo="https://imgmxa.net/canalbrasil.png" group-title="Documentários",Canal Brasil FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/36.ts
+#EXTINF:-1 tvg-id="br#tv-brasilia-hd" tvg-name="Rede TV Brasília FHD" tvg-logo="https://imgmxa.net/redetv.png" group-title="Canais Abertos",Rede TV Brasília FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/814.ts
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central FHD [H265]" tvg-logo="https://imgmxa.net/comedycentral.jpg" group-title="Documentários",Comedy Central FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/59.ts
+#EXTINF:-1 tvg-id="lch183" tvg-name="Curta! FHD" tvg-logo="https://imgmxa.net/curta.png" group-title="Documentários",Curta! FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/567.ts
+#EXTINF:-1 tvg-id="lch183" tvg-name="Curta! FHD [H265]" tvg-logo="https://imgmxa.net/curta.png" group-title="Documentários",Curta! FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/694.ts
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT RJ FHD" tvg-logo="https://imgmxa.net/sbt.png" group-title="Canais Abertos",SBT RJ FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/691.ts
+#EXTINF:-1 tvg-id="lch2073" tvg-name="E! FHD [H265]" tvg-logo="https://imgmxa.net/e.png" group-title="Documentários",E! FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/101.ts
+#EXTINF:-1 tvg-id="lch3379" tvg-name="Fish TV FHD" tvg-logo="https://imgmxa.net/fishtv.jpg" group-title="Documentários",Fish TV FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/564.ts
+#EXTINF:-1 tvg-id="lch3379" tvg-name="Fish TV FHD [H265]" tvg-logo="https://imgmxa.net/fishtv.jpg" group-title="Documentários",Fish TV FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/118.ts
+#EXTINF:-1 tvg-id="lch769" tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://imgmxa.net/discoverychannel.png" group-title="Documentários",Discovery Channel FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/64.ts
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT FHD [H265]" tvg-logo="https://imgmxa.net/gnt.png" group-title="Documentários",GNT FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/191.ts
+#EXTINF:-1 tvg-id="lch149" tvg-name="History FHD" tvg-logo="https://imgmxa.net/history.png" group-title="Documentários",History FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/233.ts
+#EXTINF:-1 tvg-id="lch149" tvg-name="History FHD [H265]" tvg-logo="https://imgmxa.net/history.png" group-title="Documentários",History FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/234.ts
+#EXTINF:-1 tvg-id="lch2449" tvg-name="History2 FHD" tvg-logo="https://imgmxa.net/history2.png" group-title="Documentários",History2 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/230.ts
+#EXTINF:-1 tvg-id="lch3286" tvg-name="Discovery Science FHD [H265]" tvg-logo="https://imgmxa.net/discoveryscience.png" group-title="Documentários",Discovery Science FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/79.ts
+#EXTINF:-1 tvg-id="lch2449" tvg-name="History2 FHD [H265]" tvg-logo="https://imgmxa.net/history2.png" group-title="Documentários",History2 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/231.ts
+#EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem FHD [H265]" tvg-logo="https://i.imgur.com/knr4T97.jpg" group-title="Documentários",Modo Viagem FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/242.ts
+#EXTINF:-1 tvg-id="lch4112" tvg-name="MTV 00s FHD [H265]" tvg-logo="https://imgmxa.net/mtv00s.png" group-title="Documentários",MTV 00s FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/425.ts
+#EXTINF:-1 tvg-id="br#mtv" tvg-name="MTV FHD [H265]" tvg-logo="https://imgmxa.net/mtv.png" group-title="Documentários",MTV FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/250.ts
+#EXTINF:-1 tvg-id="lch39" tvg-name="Discovery Theater FHD" tvg-logo="https://imgmxa.net/discoverytheater.png" group-title="Documentários",Discovery Theater FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/81.ts
+#EXTINF:-1 tvg-id="lch4112" tvg-name="MTV Live FHD [H265]" tvg-logo="https://imgmxa.net/mtvlive.png" group-title="Documentários",MTV Live FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/659.ts
+#EXTINF:-1 tvg-id="lch215" tvg-name="Multishow FHD [H265]" tvg-logo="https://imgmxa.net/multishow.png" group-title="Documentários",Multishow FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/254.ts
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV FHD [H265]" tvg-logo="https://imgmxa.net/hgtv.png" group-title="Documentários",HGTV FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/226.ts
+#EXTINF:-1 tvg-id="br#record-hd" tvg-name="Record SP FHD [H265]" tvg-logo="https://imgmxa.net/record.png" group-title="Documentários",Record SP FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/590.ts
+#EXTINF:-1 tvg-id="lch151" tvg-name="OFF FHD [H265]" tvg-logo="https://imgmxa.net/canaloff.jpg" group-title="Documentários",OFF FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/282.ts
+#EXTINF:-1 tvg-id="br#tv-brasilia-hd" tvg-name="Rede TV Brasília FHD [H265]" tvg-logo="https://imgmxa.net/redetv.png" group-title="Documentários",Rede TV Brasília FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/815.ts
+#EXTINF:-1 tvg-id="br#rede-tv-belem-hd" tvg-name="Rede TV FHD [H265]" tvg-logo="https://imgmxa.net/redetv.png" group-title="Documentários",Rede TV FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/331.ts
+#EXTINF:-1 tvg-id="lch39" tvg-name="Discovery Theater FHD [H265]" tvg-logo="https://imgmxa.net/discoverytheater.png" group-title="Documentários",Discovery Theater FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/82.ts
+#EXTINF:-1 tvg-id="br#rede-vida-hd" tvg-name="Rede Vida FHD [H265]" tvg-logo="https://imgmxa.net/redevida.png" group-title="Documentários",Rede Vida FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/620.ts
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida FHD [H265]" tvg-logo="https://imgmxa.net/tvaparecida.png" group-title="Documentários",TV Aparecida FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/699.ts
+#EXTINF:-1 tvg-id="br#cultura" tvg-name="TV Cultura FHD [H265]" tvg-logo="https://imgmxa.net/tvcultura.png" group-title="Documentários",TV Cultura FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/693.ts
+#EXTINF:-1 tvg-id="lch2093" tvg-name="USA FHD [H265]" tvg-logo="https://imgmxa.net/usa.png" group-title="Documentários",USA FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/364.ts
+#EXTINF:-1 tvg-id="lch677" tvg-name="Viva FHD [H265]" tvg-logo="https://imgmxa.net/viva.png" group-title="Documentários",Viva FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/612.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo FHD [H265]" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Documentários",Discovery Turbo FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/86.ts
+#EXTINF:-1 tvg-id="lch2106" tvg-name="WooHoo FHD [H265]" tvg-logo="https://imgmxa.net/woohoo.png" group-title="Documentários",WooHoo FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/435.ts
+#EXTINF:-1 tvg-id="lch928" tvg-name="BAND Sports FHD [H265]" tvg-logo="https://imgmxa.net/bandsports.png" group-title="Esportes",BAND Sports FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/26.ts
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/wUk3MRw.png" group-title="Documentários",TLC FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/395.ts
+#EXTINF:-1 tvg-id="lch1211" tvg-name="Combate FHD [H265]" tvg-logo="https://imgmxa.net/combate.png" group-title="Esportes",Combate FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/55.ts
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV FHD" tvg-logo="https://imgmxa.net/hgtv.png" group-title="Documentários",HGTV FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/225.ts
+#EXTINF:-1 tvg-id="lch1995" tvg-name="Premiere 4 FHD" tvg-logo="https://imgmxa.net/premiere4.jpg" group-title="Esportes",Premiere 4 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/305.ts
+#EXTINF:-1 tvg-id="lch142" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://imgmxa.net/premiere2.jpg" group-title="Esportes",Premiere 2 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/294.ts
+#EXTINF:-1 tvg-id="lch937" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://imgmxa.net/premiere3.jpg" group-title="Esportes",Premiere 3 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/298.ts
+#EXTINF:-1 tvg-id="br#premiere-clubes-hd" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://imgmxa.net/premiereclubes.jpg" group-title="Esportes",Premiere 1 Clubes FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/290.ts
+#EXTINF:-1 tvg-id="lch1995" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://imgmxa.net/premiere4.jpg" group-title="Esportes",Premiere 4 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/302.ts
+#EXTINF:-1 tvg-id="lch1996" tvg-name="Premiere 5 FHD" tvg-logo="https://imgmxa.net/premiere5.jpg" group-title="Esportes",Premiere 5 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/640.ts
+#EXTINF:-1 tvg-id="lch855" tvg-name="ESPN 5 FHD [H265]" tvg-logo="https://imgmxa.net/espn1.png" group-title="Esportes",ESPN 5 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/142.ts
+#EXTINF:-1 tvg-id="lch3545" tvg-name="ESPN 6 FHD [H265]" tvg-logo="https://imgmxa.net/espn1.png" group-title="Esportes",ESPN 6 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/108.ts
+#EXTINF:-1 tvg-id="lch2441" tvg-name="Premiere 7 FHD" tvg-logo="https://imgmxa.net/premiere7.jpg" group-title="Esportes",Premiere 7 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/313.ts
+#EXTINF:-1 tvg-id="None" tvg-name="Prime Esportes 1 FHD" tvg-logo="https://imgmxa.net/primeesportes1.jpg" group-title="Esportes",Prime Esportes 1 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/162.ts
+#EXTINF:-1 tvg-id="lch216" tvg-name="SporTV 1 FHD" tvg-logo="https://imgmxa.net/sportv1-2023.png" group-title="Esportes",SporTV 1 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/347.ts
+#EXTINF:-1 tvg-id="lch216" tvg-name="SporTV 1 FHD [H265]" tvg-logo="https://imgmxa.net/sportv1-2023.png" group-title="Esportes",SporTV 1 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/348.ts
+#EXTINF:-1 tvg-id="lch217" tvg-name="SporTV 2 FHD" tvg-logo="https://imgmxa.net/sportv2-2023.png" group-title="Esportes",SporTV 2 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/351.ts
+#EXTINF:-1 tvg-id="lch1210" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://imgmxa.net/sportv3-2023.png" group-title="Esportes",SporTV 3 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/356.ts
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="UFC Fight Pass/UFC TV FHD" tvg-logo="https://tecnoinforme.com.br/wp-content/uploads/2023/01/ufc-editada.jpg" group-title="Esportes",UFC Fight Pass/UFC TV FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/81883.ts
+#EXTINF:-1 tvg-id="lch144" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://imgmxa.net/espn1.png" group-title="Esportes",ESPN 4 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/138.ts
+#EXTINF:-1 tvg-id="lch150" tvg-name="A&E FHD" tvg-logo="https://imgmxa.net/ae.png" group-title="Filmes e Séries",A&E FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/1.ts
+#EXTINF:-1 tvg-id="lch150" tvg-name="A&E FHD [H265]" tvg-logo="https://imgmxa.net/ae.png" group-title="Filmes e Séries",A&E FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/2.ts
+#EXTINF:-1 tvg-id="lch5580" tvg-name="AMC FHD" tvg-logo="https://imgmxa.net/amc.png" group-title="Filmes e Séries",AMC FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/6.ts
+#EXTINF:-1 tvg-id="lch5580" tvg-name="AMC FHD [H265]" tvg-logo="https://imgmxa.net/amc.png" group-title="Filmes e Séries",AMC FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/7.ts
+#EXTINF:-1 tvg-id="lch855" tvg-name="ESPN 5 4K" tvg-logo="https://imgmxa.net/espn1.png" group-title="Esportes",ESPN 5 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1643.ts
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD" tvg-logo="https://imgmxa.net/axn.png" group-title="Filmes e Séries",AXN FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/14.ts
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD [H265]" tvg-logo="https://imgmxa.net/axn.png" group-title="Filmes e Séries",AXN FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/15.ts
+#EXTINF:-1 tvg-id="lch152" tvg-name="Canal Sony FHD" tvg-logo="https://imgmxa.net/sony.png" group-title="Filmes e Séries",Canal Sony FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/39.ts
+#EXTINF:-1 tvg-id="lch152" tvg-name="Canal Sony FHD [H265]" tvg-logo="https://imgmxa.net/sony.png" group-title="Filmes e Séries",Canal Sony FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/40.ts
+#EXTINF:-1 tvg-id="lch2440" tvg-name="Premiere 6 FHD" tvg-logo="https://imgmxa.net/premiere6.jpg" group-title="Esportes",Premiere 6 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/309.ts
+#EXTINF:-1 tvg-id="lch2055" tvg-name="Lifetime FHD" tvg-logo="https://imgmxa.net/lifetime.png" group-title="Filmes e Séries",Lifetime FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/238.ts
+#EXTINF:-1 tvg-id="lch2055" tvg-name="Lifetime FHD [H265]" tvg-logo="https://imgmxa.net/lifetime.png" group-title="Filmes e Séries",Lifetime FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/239.ts
+#EXTINF:-1 tvg-id="lch79" tvg-name="MegaPix FHD [H265]" tvg-logo="https://imgmxa.net/megapix.png" group-title="Filmes e Séries",MegaPix FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/246.ts
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="Paramount Channel FHD" tvg-logo="https://imgmxa.net/paramountchannel.png" group-title="Filmes e Séries",Paramount Channel FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/285.ts
+#EXTINF:-1 tvg-id="lch459" tvg-name="HBO2 FHD [H265]" tvg-logo="https://imgmxa.net/hbo2.png" group-title="Filmes e Séries",HBO2 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/223.ts
+#EXTINF:-1 tvg-id="br#paramount-brasil-hd" tvg-name="Paramount Channel FHD [H265]" tvg-logo="https://imgmxa.net/paramountchannel.png" group-title="Filmes e Séries",Paramount Channel FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/286.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MegaPix 4K" tvg-logo="https://imgmxa.net/megapix.png" group-title="Filmes e Séries",MegaPix 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1642.ts
+#EXTINF:-1 tvg-id="lch182" tvg-name="HBO1 FHD" tvg-logo="https://imgmxa.net/hbo1.png" group-title="Filmes e Séries",HBO1 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/219.ts
+#EXTINF:-1 tvg-id="lch2080" tvg-name="Studio Universal FHD" tvg-logo="https://imgmxa.net/studiouniversal.png" group-title="Filmes e Séries",Studio Universal FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/359.ts
+#EXTINF:-1 tvg-id="lch2080" tvg-name="Studio Universal FHD [H265]" tvg-logo="https://imgmxa.net/studiouniversal.png" group-title="Filmes e Séries",Studio Universal FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/360.ts
+#EXTINF:-1 tvg-id="lch111" tvg-name="Telecine Action FHD" tvg-logo="https://imgmxa.net/telecineaction.png" group-title="Filmes e Séries",Telecine Action FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/371.ts
+#EXTINF:-1 tvg-id="lch111" tvg-name="Telecine Action FHD [H265]" tvg-logo="https://imgmxa.net/telecineaction.png" group-title="Filmes e Séries",Telecine Action FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/372.ts
+#EXTINF:-1 tvg-id="lch218" tvg-name="Telecine Cult FHD" tvg-logo="https://imgmxa.net/telecinecult.png" group-title="Filmes e Séries",Telecine Cult FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/375.ts
+#EXTINF:-1 tvg-id="lch182" tvg-name="HBO1 FHD [H265]" tvg-logo="https://imgmxa.net/hbo1.png" group-title="Filmes e Séries",HBO1 FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/197.ts
+#EXTINF:-1 tvg-id="lch218" tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://imgmxa.net/telecinecult.png" group-title="Filmes e Séries",Telecine Cult FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/376.ts
+#EXTINF:-1 tvg-id="lch155" tvg-name="Telecine Fun FHD" tvg-logo="https://imgmxa.net/telecinefun.png" group-title="Filmes e Séries",Telecine Fun FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/379.ts
+#EXTINF:-1 tvg-id="lch155" tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://imgmxa.net/telecinefun.png" group-title="Filmes e Séries",Telecine Fun FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/380.ts
+#EXTINF:-1 tvg-id="lch112" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://imgmxa.net/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/384.ts
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://imgmxa.net/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/388.ts
+#EXTINF:-1 tvg-id="lch154" tvg-name="Telecine Touch FHD" tvg-logo="https://imgmxa.net/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/391.ts
+#EXTINF:-1 tvg-id="lch154" tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://imgmxa.net/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/392.ts
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel TV FHD" tvg-logo="https://imgmxa.net/universalchannel.png" group-title="Filmes e Séries",Universal Channel TV FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/422.ts
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series 4K" tvg-logo="https://imgmxa.net/tntseries.png" group-title="Filmes e Séries",TNT Series 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1651.ts
+#EXTINF:-1 tvg-id="br#gloob-hd" tvg-name="Gloob FHD [H265]" tvg-logo="https://imgmxa.net/gloob.png" group-title="Infantil",Gloob FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/698.ts
+#EXTINF:-1 tvg-id="lch3872" tvg-name="Gloobinho FHD [H265]" tvg-logo="https://i.imgur.com/Tflf2aa.png" group-title="Infantil",Gloobinho FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/626.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr FHD [H265]" tvg-logo="https://imgmxa.net/nickjunior.png" group-title="Infantil",Nick Jr FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/272.ts
+#EXTINF:-1 tvg-id="lch934" tvg-name="Nickelodeon FHD [H265]" tvg-logo="https://imgmxa.net/nickelodeon.png" group-title="Infantil",Nickelodeon FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/276.ts
+#EXTINF:-1 tvg-id="br#vh1-hd" tvg-name="MTV 00s FHD" tvg-logo="https://imgmxa.net/mtv00s.png" group-title="Música",MTV 00s FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/524.ts
+#EXTINF:-1 tvg-id="lch2443" tvg-name="TV Ra Tim Bum FHD [H265]" tvg-logo="https://i.imgur.com/owbJW6i.png" group-title="Infantil",TV Ra Tim Bum FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/613.ts
+#EXTINF:-1 tvg-id="lch2794" tvg-name="Cartoonito FHD" tvg-logo="https://imgmxa.net/cartoonito.png" group-title="Infantil",Cartoonito FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/32.ts
+#EXTINF:-1 tvg-id="lch934" tvg-name="Nickelodeon FHD" tvg-logo="https://imgmxa.net/nickelodeon.png" group-title="Infantil",Nickelodeon FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/275.ts
+#EXTINF:-1 tvg-id="lch4112" tvg-name="MTV Live FHD" tvg-logo="https://imgmxa.net/mtvlive.png" group-title="Música",MTV Live FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/517.ts
+#EXTINF:-1 tvg-id="br#mtv" tvg-name="MTV FHD" tvg-logo="https://imgmxa.net/mtv.png" group-title="Música",MTV FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/249.ts
+#EXTINF:-1 tvg-id="lch5480" tvg-name="Music Box Brazil FHD" tvg-logo="https://i.imgur.com/YsmrlLn.png" group-title="Música",Music Box Brazil FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/521.ts
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News FHD" tvg-logo="https://imgmxa.net/bandnews.png" group-title="Notícias",BAND News FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/18.ts
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News FHD [H265]" tvg-logo="https://imgmxa.net/bandnews.png" group-title="Notícias",BAND News FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/19.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://imgmxa.net/cnnbrasil.png" group-title="Notícias",CNN Brasil FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/695.ts
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD" tvg-logo="https://imgmxa.net/globonews.png" group-title="Notícias",Globo News FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/165.ts
+#EXTINF:-1 tvg-id="lch2794" tvg-name="Cartoonito FHD [H265]" tvg-logo="https://imgmxa.net/cartoonito.png" group-title="Infantil",Cartoonito FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/33.ts
+#EXTINF:-1 tvg-id="lch5573" tvg-name="Jovem Pan News FHD" tvg-logo="https://imgmxa.net/jovempannews.png" group-title="Notícias",Jovem Pan News FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/857.ts
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://imgmxa.net/globonews.png" group-title="Notícias",Globo News FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/166.ts
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://imgmxa.net/discoverykids.png" group-title="Infantil",Discovery Kids FHD [H265]
+http://k1x9.com/live/uidwfwz/mwygi7t/76.ts
+#EXTINF:-1 tvg-id="lch2091" tvg-name="Record News FHD" tvg-logo="https://imgmxa.net/recordnews.png" group-title="Notícias",Record News FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/324.ts
+#EXTINF:-1 tvg-id="lch81" tvg-name="BIS FHD" tvg-logo="https://imgmxa.net/bis.png" group-title="Música",BIS FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/449.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Curitiba FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Religiosos",GB RPC Curitiba FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/455.ts
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN Brasil FHD" tvg-logo="https://imgmxa.net/cnnbrasil.png" group-title="Notícias",CNN Brasil FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/51.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BBB Cozinha 01 FHD" tvg-logo="https://imgmxa.net/bbb.jpg" group-title="Variedades",BBB Cozinha 01 FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/81880.ts
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="https://imgmxa.net/tvaparecida.png" group-title="Religiosos",TV Aparecida FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/538.ts
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://imgmxa.net/discoverykids.png" group-title="Infantil",Discovery Kids FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/75.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BBB Piscina FHD" tvg-logo="https://imgmxa.net/bbb.jpg" group-title="Variedades",BBB Piscina FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/81889.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BBB 2 Acompanhe a Casa FHD" tvg-logo="https://imgmxa.net/bbb.jpg" group-title="Variedades",BBB 2 Acompanhe a Casa FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/1623.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BBB Banheiro Pantene FHD" tvg-logo="https://imgmxa.net/bbb.jpg" group-title="Variedades",BBB Banheiro Pantene FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/85457.ts
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://imgmxa.net/canalbrasil.png" group-title="Variedades",Canal Brasil FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/453.ts
+#EXTINF:-1 tvg-id="lch2073" tvg-name="E! FHD" tvg-logo="https://imgmxa.net/e.png" group-title="Variedades",E! FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/100.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BBB Quarto Fantastico FHD" tvg-logo="https://imgmxa.net/bbb.jpg" group-title="Variedades",BBB Quarto Fantastico FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/85447.ts
+#EXTINF:-1 tvg-id="FashionTV.br" tvg-name="Fashion TV FHD" tvg-logo="https://imgmxa.net/fashiontv.png" group-title="Variedades",Fashion TV FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/452.ts
+#EXTINF:-1 tvg-id="AE" tvg-name="TV Pai Eterno FHD" tvg-logo="https://i.imgur.com/RD5wb8q.png" group-title="Religiosos",TV Pai Eterno FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/514.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Araxá MG FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Araxá MG FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/502.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Asa Branca FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Asa Branca FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/671.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Bahia Salvador FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/150.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB EPTV Campinas FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/155.ts
+#EXTINF:-1 tvg-id="lch144" tvg-name="E*SPN 4 4K" tvg-logo="https://i.imgur.com/TAoxLQY.png" group-title="Variedades",E*SPN 4 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1636.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Ribeirao Preto FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB EPTV Ribeirao Preto FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/157.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Sul de Minas FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB EPTV Sul de Minas FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/571.ts
+#EXTINF:-1 tvg-id="lch211" tvg-name="E*SPN 1 4K" tvg-logo="https://imgmxa.net/espn1.png" group-title="Variedades",E*SPN 1 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1658.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Alto Litoral FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Inter TV Alto Litoral FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/499.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Cabugi Natal FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Inter TV Cabugi Natal FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/551.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV dos Vales FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Inter TV dos Vales FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/504.ts
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central 4K" tvg-logo="https://imgmxa.net/comedycentral.jpg" group-title="Variedades",Comedy Central 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1659.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Serra Mar FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Inter TV Serra Mar FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/436.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Brasilia FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/465.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB MG Inter TV Grande Minas FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/666.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Minas FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/558.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Nordeste Recife FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/556.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Blumenau FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB NSC TV Blumenau FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/547.ts
+#EXTINF:-1 tvg-id="lch464" tvg-name="E*SPN 2 4K" tvg-logo="https://imgmxa.net/espn2.png" group-title="Variedades",E*SPN 2 4K
+http://k1x9.com/live/uidwfwz/mwygi7t/1645.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Chapeco FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB NSC TV Chapeco FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/505.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianopolis FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB NSC TV Florianopolis FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/544.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Joinville FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB NSC TV Joinville FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/509.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Pelotas FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB RBS TV Pelotas FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/319.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Caxias FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB RBS TV Caxias FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/317.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazonica Manaus FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Rede Amazonica Manaus FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/559.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Porto Velho FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Rede Amazônica Porto Velho FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/675.ts
+#EXTINF:-1 tvg-id="lch3874" tvg-name="Food Network FHD" tvg-logo="https://imgmxa.net/foodnetwork.png" group-title="Variedades",Food Network FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/120.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Rio Branco FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB Rede Amazônica Rio Branco FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/639.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Foz do Iguaçu FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB RPC Foz do Iguaçu FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/333.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB RJ FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/171.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Ponta Grossa FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB RPC Ponta Grossa FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/494.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Maringá FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB RPC Maringá FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/588.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC TV Paranavai FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB RPC TV Paranavai FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/510.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB SP FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/176.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP TV Tem São José do Rio Preto FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB SP TV Tem São José do Rio Preto FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/478.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP TV Vanguarda Taubate FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB SP TV Vanguarda Taubate FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/658.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Anhanguera Goiás FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/554.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Centro America Cuiabá FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Centro America Cuiabá FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/533.ts
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura FHD" tvg-logo="https://imgmxa.net/tvfutura.png" group-title="Variedades",Futura FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/560.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Fronteira Presidente Prudente FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Fronteira Presidente Prudente FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/473.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belem FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Liberal Belem FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/586.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Juiz de Fora FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Integracao Juiz de Fora FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/481.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante São Luís FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Mirante São Luís FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/527.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Morena MS FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Morena MS FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/520.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Rio Sul FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Rio Sul FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/550.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Tem Sorocaba FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/446.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Bauru FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Tem Bauru FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/522.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tribuna Santos FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Tribuna Santos FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/438.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda S.J. dos Campos FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Vanguarda S.J. dos Campos FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/419.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB TV Verdes Mares Ceará FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/526.ts
+#EXTINF:-1 tvg-id="lch56" tvg-name="Modo Viagem FHD" tvg-logo="https://i.imgur.com/knr4T97.jpg" group-title="Variedades",Modo Viagem FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/448.ts
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT FHD" tvg-logo="https://imgmxa.net/gnt.png" group-title="Variedades",GNT FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/190.ts
+#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brazil FHD" tvg-logo="https://imgmxa.net/primeboxbrasil.png" group-title="Variedades",Prime Box Brazil FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/543.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre FHD" tvg-logo="https://imgmxa.net/globo-2023.png" group-title="Variedades",GB RBS TV Porto Alegre FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/454.ts
+#EXTINF:-1 tvg-id="lch3651" tvg-name="Travel Box Brasil FHD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="Variedades",Travel Box Brasil FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/447.ts
+#EXTINF:-1 tvg-id="lch2093" tvg-name="USA FHD" tvg-logo="https://imgmxa.net/usa.png" group-title="Variedades",USA FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/363.ts
+#EXTINF:-1 tvg-id="CanalViva.br" tvg-name="Viva FHD" tvg-logo="https://imgmxa.net/viva.png" group-title="Variedades",Viva FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/428.ts
+#EXTINF:-1 tvg-id="lch2106" tvg-name="WooHoo TV FHD" tvg-logo="https://imgmxa.net/woohoo.png" group-title="Variedades",WooHoo TV FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/451.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: FloGrappling FHD" tvg-logo="https://i.imgur.com/BB8WPgu.png" group-title="Variedades",US: FloGrappling FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/81903.ts
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="Sexy Hot FHD" tvg-logo="https://imgmxa.net/sexhot.png" group-title="Variedades",Sexy Hot FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/846.ts
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida FHD" tvg-logo="https://imgmxa.net/redevida.png" group-title="Variedades",Rede Vida FHD
+http://k1x9.com/live/uidwfwz/mwygi7t/511.ts
